@@ -6,5 +6,8 @@
 
     /* Completeness */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
-  }
+  },
+    /* Search the config file for the following line and uncomment it. */
+    "allowSyntheticDefaultImports": true /* Allow default imports from modules with no default export. This does not affect code emit, just typechecking. */
+  
 }
